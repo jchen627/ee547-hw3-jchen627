@@ -21,6 +21,8 @@ python query_papers.py keyword graph --limit 5 --table arxiv-papers --region us-
 
 
 for api server：
+ssh -i testec2.pem ec2-user@34.227.207.152
+
 curl "http://localhost:8080/papers/recent?category=cs.NE&limit=5"
 curl "http://localhost:8080/papers/author/Yann%20LeCun"
 curl "http://localhost:8080/papers/1105.5307v1"
