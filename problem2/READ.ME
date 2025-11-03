@@ -2,7 +2,7 @@ Schema Design Decisions:
 Why did you choose your partition key structure?
 How many GSIs did you create and why?
 What denormalization trade-offs did you make?
-I chose the partition key as the paper category, for example "CATEGORY#cs.LG", because most of the common queries start from a specific field or research area.
+I chose the partition key as the paper category, for example "CATEGORY#cs.NE", because most of the common queries start from a specific field or research area.
 The sort key includes the publish date and paper ID (like "2023-01-15#2301.12345") so that I can easily fetch the most recent papers within a category — this makes time-based queries very efficient.
 
 I created three GSIs.
