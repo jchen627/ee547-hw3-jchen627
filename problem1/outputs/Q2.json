@@ -1,0 +1,357 @@
+{
+  "query": "Q2",
+  "description": "Trips during morning rush (7-9 AM)",
+  "results": [
+    {
+      "trip_id": "T0002",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-01 07:00:00"
+    },
+    {
+      "trip_id": "T0017",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-01 07:00:00"
+    },
+    {
+      "trip_id": "T0032",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-01 07:00:00"
+    },
+    {
+      "trip_id": "T0062",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-01 07:00:00"
+    },
+    {
+      "trip_id": "T0047",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-01 07:00:00"
+    },
+    {
+      "trip_id": "T0063",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-01 08:00:00"
+    },
+    {
+      "trip_id": "T0048",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-01 08:00:00"
+    },
+    {
+      "trip_id": "T0003",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-01 08:00:00"
+    },
+    {
+      "trip_id": "T0033",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-01 08:00:00"
+    },
+    {
+      "trip_id": "T0018",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-01 08:00:00"
+    },
+    {
+      "trip_id": "T0107",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-02 07:00:00"
+    },
+    {
+      "trip_id": "T0137",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-02 07:00:00"
+    },
+    {
+      "trip_id": "T0077",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-02 07:00:00"
+    },
+    {
+      "trip_id": "T0122",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-02 07:00:00"
+    },
+    {
+      "trip_id": "T0092",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-02 07:00:00"
+    },
+    {
+      "trip_id": "T0093",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-02 08:00:00"
+    },
+    {
+      "trip_id": "T0138",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-02 08:00:00"
+    },
+    {
+      "trip_id": "T0078",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-02 08:00:00"
+    },
+    {
+      "trip_id": "T0123",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-02 08:00:00"
+    },
+    {
+      "trip_id": "T0108",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-02 08:00:00"
+    },
+    {
+      "trip_id": "T0167",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-03 07:00:00"
+    },
+    {
+      "trip_id": "T0212",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-03 07:00:00"
+    },
+    {
+      "trip_id": "T0182",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-03 07:00:00"
+    },
+    {
+      "trip_id": "T0197",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-03 07:00:00"
+    },
+    {
+      "trip_id": "T0152",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-03 07:00:00"
+    },
+    {
+      "trip_id": "T0168",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-03 08:00:00"
+    },
+    {
+      "trip_id": "T0198",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-03 08:00:00"
+    },
+    {
+      "trip_id": "T0213",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-03 08:00:00"
+    },
+    {
+      "trip_id": "T0153",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-03 08:00:00"
+    },
+    {
+      "trip_id": "T0183",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-03 08:00:00"
+    },
+    {
+      "trip_id": "T0257",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-04 07:00:00"
+    },
+    {
+      "trip_id": "T0227",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-04 07:00:00"
+    },
+    {
+      "trip_id": "T0242",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-04 07:00:00"
+    },
+    {
+      "trip_id": "T0272",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-04 07:00:00"
+    },
+    {
+      "trip_id": "T0287",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-04 07:00:00"
+    },
+    {
+      "trip_id": "T0228",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-04 08:00:00"
+    },
+    {
+      "trip_id": "T0243",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-04 08:00:00"
+    },
+    {
+      "trip_id": "T0288",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-04 08:00:00"
+    },
+    {
+      "trip_id": "T0258",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-04 08:00:00"
+    },
+    {
+      "trip_id": "T0273",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-04 08:00:00"
+    },
+    {
+      "trip_id": "T0362",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-05 07:00:00"
+    },
+    {
+      "trip_id": "T0332",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-05 07:00:00"
+    },
+    {
+      "trip_id": "T0302",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-05 07:00:00"
+    },
+    {
+      "trip_id": "T0347",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-05 07:00:00"
+    },
+    {
+      "trip_id": "T0317",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-05 07:00:00"
+    },
+    {
+      "trip_id": "T0333",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-05 08:00:00"
+    },
+    {
+      "trip_id": "T0348",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-05 08:00:00"
+    },
+    {
+      "trip_id": "T0318",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-05 08:00:00"
+    },
+    {
+      "trip_id": "T0303",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-05 08:00:00"
+    },
+    {
+      "trip_id": "T0363",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-05 08:00:00"
+    },
+    {
+      "trip_id": "T0392",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-06 07:00:00"
+    },
+    {
+      "trip_id": "T0407",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-06 07:00:00"
+    },
+    {
+      "trip_id": "T0422",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-06 07:00:00"
+    },
+    {
+      "trip_id": "T0437",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-06 07:00:00"
+    },
+    {
+      "trip_id": "T0377",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-06 07:00:00"
+    },
+    {
+      "trip_id": "T0408",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-06 08:00:00"
+    },
+    {
+      "trip_id": "T0378",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-06 08:00:00"
+    },
+    {
+      "trip_id": "T0423",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-06 08:00:00"
+    },
+    {
+      "trip_id": "T0438",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-06 08:00:00"
+    },
+    {
+      "trip_id": "T0393",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-06 08:00:00"
+    },
+    {
+      "trip_id": "T0467",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-07 07:00:00"
+    },
+    {
+      "trip_id": "T0512",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-07 07:00:00"
+    },
+    {
+      "trip_id": "T0482",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-07 07:00:00"
+    },
+    {
+      "trip_id": "T0452",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-07 07:00:00"
+    },
+    {
+      "trip_id": "T0497",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-07 07:00:00"
+    },
+    {
+      "trip_id": "T0498",
+      "line_name": "Route 33",
+      "scheduled_departure": "2025-10-07 08:00:00"
+    },
+    {
+      "trip_id": "T0483",
+      "line_name": "Route 20",
+      "scheduled_departure": "2025-10-07 08:00:00"
+    },
+    {
+      "trip_id": "T0453",
+      "line_name": "Route 2",
+      "scheduled_departure": "2025-10-07 08:00:00"
+    },
+    {
+      "trip_id": "T0513",
+      "line_name": "Route 720",
+      "scheduled_departure": "2025-10-07 08:00:00"
+    },
+    {
+      "trip_id": "T0468",
+      "line_name": "Route 4",
+      "scheduled_departure": "2025-10-07 08:00:00"
+    }
+  ],
+  "count": 70
+}

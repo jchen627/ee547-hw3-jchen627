@@ -1,0 +1,1919 @@
+{
+  "query": "Q9",
+  "description": "Trips with 3+ delayed stops",
+  "results": [
+    {
+      "trip_id": "T0048",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0082",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0098",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0200",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0204",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0206",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0211",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0272",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0306",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0351",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0399",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0400",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0405",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0421",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0443",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0444",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0455",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0512",
+      "delayed_stop_count": 21
+    },
+    {
+      "trip_id": "T0019",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0033",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0045",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0057",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0061",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0065",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0101",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0113",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0119",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0137",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0154",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0161",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0167",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0176",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0186",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0197",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0219",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0247",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0276",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0301",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0315",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0333",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0357",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0366",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0411",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0432",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0436",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0437",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0458",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0463",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0466",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0470",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0481",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0494",
+      "delayed_stop_count": 20
+    },
+    {
+      "trip_id": "T0005",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0006",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0007",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0012",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0020",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0021",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0030",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0042",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0053",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0071",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0095",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0114",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0116",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0117",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0136",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0163",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0183",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0190",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0198",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0215",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0218",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0221",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0226",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0266",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0309",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0334",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0339",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0343",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0344",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0345",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0375",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0387",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0390",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0409",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0422",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0425",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0442",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0467",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0469",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0478",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0484",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0487",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0493",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0495",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0496",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0500",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0507",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0508",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0515",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0522",
+      "delayed_stop_count": 19
+    },
+    {
+      "trip_id": "T0010",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0024",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0029",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0037",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0054",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0070",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0081",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0099",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0109",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0121",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0153",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0171",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0248",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0282",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0284",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0289",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0291",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0300",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0308",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0313",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0325",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0335",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0340",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0350",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0359",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0394",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0398",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0435",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0465",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0476",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0509",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0525",
+      "delayed_stop_count": 18
+    },
+    {
+      "trip_id": "T0013",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0036",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0039",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0043",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0046",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0059",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0062",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0110",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0130",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0138",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0141",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0170",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0212",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0230",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0236",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0246",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0252",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0264",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0265",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0270",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0311",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0332",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0373",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0382",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0396",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0415",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0445",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0451",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0456",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0459",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0473",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0504",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0506",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0523",
+      "delayed_stop_count": 17
+    },
+    {
+      "trip_id": "T0003",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0040",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0056",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0058",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0060",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0063",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0073",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0075",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0118",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0122",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0124",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0127",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0131",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0132",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0133",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0140",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0152",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0168",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0185",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0191",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0249",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0250",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0255",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0261",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0267",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0277",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0279",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0283",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0290",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0293",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0298",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0326",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0349",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0360",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0362",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0392",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0406",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0439",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0460",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0477",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0479",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0492",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0498",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0518",
+      "delayed_stop_count": 16
+    },
+    {
+      "trip_id": "T0027",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0047",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0072",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0080",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0129",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0157",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0172",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0175",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0179",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0181",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0187",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0228",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0239",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0245",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0253",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0259",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0295",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0303",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0310",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0321",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0331",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0353",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0368",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0386",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0401",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0418",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0419",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0420",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0448",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0468",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0480",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0501",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0503",
+      "delayed_stop_count": 15
+    },
+    {
+      "trip_id": "T0002",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0041",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0055",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0064",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0077",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0084",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0093",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0102",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0125",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0173",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0177",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0180",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0192",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0196",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0217",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0229",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0232",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0234",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0237",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0240",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0241",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0256",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0258",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0327",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0330",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0348",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0361",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0371",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0384",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0438",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0450",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0471",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0497",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0521",
+      "delayed_stop_count": 14
+    },
+    {
+      "trip_id": "T0011",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0014",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0016",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0025",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0031",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0044",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0068",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0074",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0078",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0083",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0094",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0100",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0143",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0147",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0148",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0160",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0165",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0166",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0174",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0202",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0225",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0233",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0242",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0251",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0257",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0268",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0285",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0292",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0314",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0328",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0341",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0358",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0369",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0370",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0378",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0385",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0388",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0408",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0410",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0414",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0424",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0428",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0447",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0517",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0519",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0520",
+      "delayed_stop_count": 13
+    },
+    {
+      "trip_id": "T0023",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0051",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0092",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0104",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0111",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0126",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0128",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0144",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0149",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0203",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0205",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0207",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0214",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0299",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0307",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0317",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0329",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0389",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0391",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0395",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0402",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0449",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0482",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0490",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0491",
+      "delayed_stop_count": 12
+    },
+    {
+      "trip_id": "T0009",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0018",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0022",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0142",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0145",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0178",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0222",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0227",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0273",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0356",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0364",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0367",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0374",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0413",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0427",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0431",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0461",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0516",
+      "delayed_stop_count": 11
+    },
+    {
+      "trip_id": "T0049",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0076",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0087",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0090",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0112",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0115",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0123",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0150",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0184",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0193",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0199",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0224",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0231",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0275",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0281",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0288",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0319",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0320",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0322",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0336",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0337",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0352",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0430",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0433",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0472",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0474",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0486",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0502",
+      "delayed_stop_count": 10
+    },
+    {
+      "trip_id": "T0050",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0097",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0135",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0169",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0216",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0263",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0296",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0297",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0397",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0429",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0446",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0452",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0488",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0514",
+      "delayed_stop_count": 9
+    },
+    {
+      "trip_id": "T0032",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0086",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0088",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0146",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0159",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0162",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0164",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0208",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0278",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0302",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0323",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0324",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0416",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0441",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0483",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0489",
+      "delayed_stop_count": 8
+    },
+    {
+      "trip_id": "T0004",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0028",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0079",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0108",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0155",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0182",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0238",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0254",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0260",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0262",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0318",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0338",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0376",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0412",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0453",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0475",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0505",
+      "delayed_stop_count": 7
+    },
+    {
+      "trip_id": "T0120",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0134",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0151",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0201",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0220",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0223",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0244",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0312",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0379",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0457",
+      "delayed_stop_count": 6
+    },
+    {
+      "trip_id": "T0035",
+      "delayed_stop_count": 5
+    },
+    {
+      "trip_id": "T0069",
+      "delayed_stop_count": 5
+    },
+    {
+      "trip_id": "T0091",
+      "delayed_stop_count": 5
+    },
+    {
+      "trip_id": "T0105",
+      "delayed_stop_count": 5
+    },
+    {
+      "trip_id": "T0156",
+      "delayed_stop_count": 5
+    },
+    {
+      "trip_id": "T0210",
+      "delayed_stop_count": 5
+    },
+    {
+      "trip_id": "T0304",
+      "delayed_stop_count": 5
+    },
+    {
+      "trip_id": "T0305",
+      "delayed_stop_count": 5
+    },
+    {
+      "trip_id": "T0103",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0139",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0189",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0213",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0294",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0342",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0363",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0393",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0403",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0426",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0513",
+      "delayed_stop_count": 4
+    },
+    {
+      "trip_id": "T0015",
+      "delayed_stop_count": 3
+    },
+    {
+      "trip_id": "T0017",
+      "delayed_stop_count": 3
+    },
+    {
+      "trip_id": "T0026",
+      "delayed_stop_count": 3
+    },
+    {
+      "trip_id": "T0089",
+      "delayed_stop_count": 3
+    },
+    {
+      "trip_id": "T0381",
+      "delayed_stop_count": 3
+    },
+    {
+      "trip_id": "T0511",
+      "delayed_stop_count": 3
+    }
+  ],
+  "count": 478
+}

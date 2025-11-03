@@ -1,0 +1,35 @@
+my student id is 5275359844 my usc email is jchen627@usc.edu 
+
+
+for problem 1:
+the test flow is 
+cd problem1
+./build.sh
+./run.sh
+./test.sh
+
+for problem2
+test flow is :
+Testing command:
+python load_data.py papers.json arxiv-papers --region us-east-1
+
+python query_papers.py recent cs.NE --limit 20 --table arxiv-papers --region us-east-1
+python query_papers.py author "Yann LeCun" --table arxiv-papers --region us-east-1
+python query_papers.py get 1105.5307v1 --table arxiv-papers --region us-east-1
+python query_papers.py daterange cs.NE 2010-01-01 2012-12-31 --table arxiv-papers --region us-east-1
+python query_papers.py keyword graph --limit 5 --table arxiv-papers --region us-east-1
+
+
+for api server：
+curl "http://localhost:8080/papers/recent?category=cs.NE&limit=5"
+curl "http://localhost:8080/papers/author/Yann%20LeCun"
+curl "http://localhost:8080/papers/1105.5307v1"
+curl "http://localhost:8080/papers/search?category=cs.NE&start=2010-01-01&end=2015-01-01"
+curl "http://localhost:8080/papers/keyword/learning?limit=3"
+
+for the ec2
+curl "http://34.227.207.152:8080/papers/recent?category=cs.NE&limit=5"
+curl "http://34.227.207.152:8080/papers/author/Yann%20LeCun"
+curl "http://34.227.207.152:8080/papers/1105.5307v1"
+curl "http://34.227.207.152:8080/papers/search?category=cs.NE&start=2000-01-01&end=2025-01-01"
+curl "http://34.227.207.152:8080/papers/keyword/learning?limit=3"

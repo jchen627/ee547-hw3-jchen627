@@ -1,0 +1,90 @@
+Schema Design Decisions:
+Why did you choose your partition key structure?
+How many GSIs did you create and why?
+What denormalization trade-offs did you make?
+I chose the partition key as the paper category, for example "CATEGORY#cs.LG", because most of the common queries start from a specific field or research area.
+The sort key includes the publish date and paper ID (like "2023-01-15#2301.12345") so that I can easily fetch the most recent papers within a category — this makes time-based queries very efficient.
+
+I created three GSIs.
+One for author access (to get papers by author),
+one for keywords,
+and one for publication date.
+Each GSI supports a different access pattern without having to scan the whole table.
+For denormalization, I stored author, keyword, and category info together inside each item. That means some data is repeated — for example, the same author name may appear in multiple items — but it makes reads much faster. The trade-off is basically between speed and storage cost, and I optimized for speed.
+
+
+
+Denormalization Analysis:
+Average number of DynamoDB items per paper
+Storage multiplication factor
+Which access patterns caused the most duplication?
+
+On average, there are about three DynamoDB items per paper (one in the main table, plus two in GSIs).
+The storage multiplication factor is roughly 3× since each item stores a similar amount of metadata.
+The author-based queries caused the most duplication, because a single paper can have multiple authors, and each author entry needs its own GSI record.
+
+
+Query Limitations:
+What queries are NOT efficiently supported by your schema?
+Examples: “Count total papers by author”, “Most cited papers globally”
+Why are these difficult in DynamoDB?
+On average, there are about three DynamoDB items per paper (one in the main table, plus two in GSIs).
+The storage multiplication factor is roughly 3× since each item stores a similar amount of metadata.
+The author-based queries caused the most duplication, because a single paper can have multiple authors, and each author entry needs its own GSI record.
+
+
+When to Use DynamoDB:
+Based on this exercise, when would you choose DynamoDB over PostgreSQL?
+What are the key trade-offs?
+Based on this exercise, I’d choose DynamoDB over PostgreSQL when I need:
+high scalability,
+very fast read/write performance,
+and when my access patterns are clearly defined in advance.
+If I need complex joins or ad-hoc analytics, PostgreSQL would still be better.
+So the main trade-off is: DynamoDB gives speed and scalability, while PostgreSQL gives flexibility and complex querying power.
+
+
+EC2 Deployment:
+Your EC2 instance public IP
+IAM role ARN used
+Any challenges encountered during deployment
+Public IP: 34.227.207.152
+
+IAM Role ARN:
+"UserId": "AIDAWILDEQFOYM5MLCJXI",
+    "Account": "430241513821",
+    "Arn": "arn:aws:iam::430241513821:user/inspector-user"
+
+During deployment, the main challenge was getting SSH key and permissions right. I had to re-associate my EC2 instance with the correct key pair and configure the security group to allow inbound traffic on port 8080.
+Once that was fixed, I could run python3 api_server.py 8080 and successfully test it with.
+
+
+Testing command:
+python load_data.py papers.json arxiv-papers --region us-east-1
+
+command:
+python query_papers.py recent cs.NE --limit 20 --table arxiv-papers --region us-east-1
+python query_papers.py author "Yann LeCun" --table arxiv-papers --region us-east-1
+python query_papers.py get 1105.5307v1 --table arxiv-papers --region us-east-1
+python query_papers.py daterange cs.NE 2010-01-01 2012-12-31 --table arxiv-papers --region us-east-1
+python query_papers.py keyword graph --limit 5 --table arxiv-papers --region us-east-1
+
+
+for api server：
+curl "http://localhost:8080/papers/recent?category=cs.NE&limit=5"
+
+curl "http://localhost:8080/papers/author/Yann%20LeCun"
+
+curl "http://localhost:8080/papers/1105.5307v1"
+
+curl "http://localhost:8080/papers/search?category=cs.NE&start=2010-01-01&end=2015-01-01"
+
+curl "http://localhost:8080/papers/keyword/learning?limit=3"
+
+
+
+curl "http://34.227.207.152:8080/papers/recent?category=cs.NE&limit=5"
+curl "http://34.227.207.152:8080/papers/author/Yann%20LeCun"
+curl "http://34.227.207.152:8080/papers/1105.5307v1"
+curl "http://34.227.207.152:8080/papers/search?category=cs.NE&start=2000-01-01&end=2025-01-01"
+curl "http://34.227.207.152:8080/papers/keyword/learning?limit=3"

@@ -1,0 +1,47 @@
+{
+  "query": "Q7",
+  "description": "Top 10 busiest stops by total activity (on+off)",
+  "results": [
+    {
+      "stop_name": "Hilgard / Charing Cross",
+      "total_activity": 6223
+    },
+    {
+      "stop_name": "Sunset / Copley",
+      "total_activity": 6136
+    },
+    {
+      "stop_name": "Wilshire / Coronado",
+      "total_activity": 6114
+    },
+    {
+      "stop_name": "Wilshire / Crenshaw",
+      "total_activity": 6099
+    },
+    {
+      "stop_name": "Broadway / Arcadia",
+      "total_activity": 6095
+    },
+    {
+      "stop_name": "Hilgard / Manning",
+      "total_activity": 6072
+    },
+    {
+      "stop_name": "Main / Pico",
+      "total_activity": 6057
+    },
+    {
+      "stop_name": "Sunset / Charing Cross",
+      "total_activity": 6054
+    },
+    {
+      "stop_name": "Sunset / Vin Scully - Dodger Stadium",
+      "total_activity": 6050
+    },
+    {
+      "stop_name": "Broadway / 5th",
+      "total_activity": 6045
+    }
+  ],
+  "count": 10
+}

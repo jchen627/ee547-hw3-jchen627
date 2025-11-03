@@ -1,0 +1,112 @@
+{
+  "query": "Q4",
+  "description": "Complete route for a specific trip in order",
+  "results": [
+    {
+      "stop_name": "Le Conte / Broxton",
+      "sequence": 1,
+      "time_offset": 0
+    },
+    {
+      "stop_name": "Le Conte / Westwood",
+      "sequence": 2,
+      "time_offset": 2
+    },
+    {
+      "stop_name": "Le Conte / Tiverton",
+      "sequence": 3,
+      "time_offset": 2
+    },
+    {
+      "stop_name": "Hilgard / Le Conte",
+      "sequence": 4,
+      "time_offset": 3
+    },
+    {
+      "stop_name": "Hilgard / Manning",
+      "sequence": 5,
+      "time_offset": 3
+    },
+    {
+      "stop_name": "Hilgard / Westholme",
+      "sequence": 6,
+      "time_offset": 4
+    },
+    {
+      "stop_name": "Hilgard / Wyton",
+      "sequence": 7,
+      "time_offset": 5
+    },
+    {
+      "stop_name": "Hilgard / Charing Cross",
+      "sequence": 8,
+      "time_offset": 6
+    },
+    {
+      "stop_name": "Sunset / Beverly Glen",
+      "sequence": 9,
+      "time_offset": 7
+    },
+    {
+      "stop_name": "Sunset / Charing Cross",
+      "sequence": 10,
+      "time_offset": 9
+    },
+    {
+      "stop_name": "Sunset / Carolwood",
+      "sequence": 11,
+      "time_offset": 10
+    },
+    {
+      "stop_name": "Sunset / Copley",
+      "sequence": 12,
+      "time_offset": 11
+    },
+    {
+      "stop_name": "Sunset / Whittier",
+      "sequence": 13,
+      "time_offset": 11
+    },
+    {
+      "stop_name": "Sunset / Bedford",
+      "sequence": 14,
+      "time_offset": 12
+    },
+    {
+      "stop_name": "Sunset / Rodeo",
+      "sequence": 15,
+      "time_offset": 13
+    },
+    {
+      "stop_name": "Sunset / Beverly",
+      "sequence": 16,
+      "time_offset": 13
+    },
+    {
+      "stop_name": "Sunset / Rexford",
+      "sequence": 17,
+      "time_offset": 13
+    },
+    {
+      "stop_name": "Sunset / Alpine",
+      "sequence": 18,
+      "time_offset": 14
+    },
+    {
+      "stop_name": "Sunset / Foothill",
+      "sequence": 19,
+      "time_offset": 14
+    },
+    {
+      "stop_name": "Sunset / Maple",
+      "sequence": 20,
+      "time_offset": 15
+    },
+    {
+      "stop_name": "Sunset / Hillcrest",
+      "sequence": 21,
+      "time_offset": 16
+    }
+  ],
+  "count": 21
+}

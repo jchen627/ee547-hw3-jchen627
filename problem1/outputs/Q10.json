@@ -1,0 +1,367 @@
+{
+  "query": "Q10",
+  "description": "Stops with above-average ridership (boardings only)",
+  "results": [
+    {
+      "stop_name": "Sunset / Copley",
+      "total_boardings": 3413
+    },
+    {
+      "stop_name": "Le Conte / Broxton",
+      "total_boardings": 3385
+    },
+    {
+      "stop_name": "Sunset / Charing Cross",
+      "total_boardings": 3371
+    },
+    {
+      "stop_name": "Broadway / Arcadia",
+      "total_boardings": 3355
+    },
+    {
+      "stop_name": "Wilshire / Coronado",
+      "total_boardings": 3354
+    },
+    {
+      "stop_name": "Sunset / Rexford",
+      "total_boardings": 3346
+    },
+    {
+      "stop_name": "Broadway / Venice",
+      "total_boardings": 3343
+    },
+    {
+      "stop_name": "Wilshire / Lincoln",
+      "total_boardings": 3337
+    },
+    {
+      "stop_name": "Sunset / Vin Scully - Dodger Stadium",
+      "total_boardings": 3324
+    },
+    {
+      "stop_name": "Venice / Union",
+      "total_boardings": 3310
+    },
+    {
+      "stop_name": "Hilgard / Manning",
+      "total_boardings": 3307
+    },
+    {
+      "stop_name": "Broadway / 5th",
+      "total_boardings": 3302
+    },
+    {
+      "stop_name": "Wilshire / La Brea",
+      "total_boardings": 3302
+    },
+    {
+      "stop_name": "Spring / 6th",
+      "total_boardings": 3301
+    },
+    {
+      "stop_name": "Hilgard / Charing Cross",
+      "total_boardings": 3287
+    },
+    {
+      "stop_name": "Cesar E Chavez / Alameda",
+      "total_boardings": 3282
+    },
+    {
+      "stop_name": "17th / Broadway",
+      "total_boardings": 3278
+    },
+    {
+      "stop_name": "Broadway / Olympic",
+      "total_boardings": 3274
+    },
+    {
+      "stop_name": "Sunset / Maple",
+      "total_boardings": 3273
+    },
+    {
+      "stop_name": "Wilshire / Crenshaw",
+      "total_boardings": 3263
+    },
+    {
+      "stop_name": "Sunset / Foothill",
+      "total_boardings": 3262
+    },
+    {
+      "stop_name": "Wilshire / 23rd",
+      "total_boardings": 3262
+    },
+    {
+      "stop_name": "Main / Pico",
+      "total_boardings": 3257
+    },
+    {
+      "stop_name": "Venice / Burlington",
+      "total_boardings": 3256
+    },
+    {
+      "stop_name": "Hilgard / Wyton",
+      "total_boardings": 3254
+    },
+    {
+      "stop_name": "Sunset / Rodeo",
+      "total_boardings": 3249
+    },
+    {
+      "stop_name": "Wilshire / Cloverdale",
+      "total_boardings": 3245
+    },
+    {
+      "stop_name": "Wilshire / 26th",
+      "total_boardings": 3240
+    },
+    {
+      "stop_name": "Sunset / Douglas",
+      "total_boardings": 3232
+    },
+    {
+      "stop_name": "Venice / Figueroa",
+      "total_boardings": 3232
+    },
+    {
+      "stop_name": "Wilshire / Fairfax",
+      "total_boardings": 3229
+    },
+    {
+      "stop_name": "Main / 11th",
+      "total_boardings": 3228
+    },
+    {
+      "stop_name": "Spring / 7th",
+      "total_boardings": 3228
+    },
+    {
+      "stop_name": "Main / 9th",
+      "total_boardings": 3227
+    },
+    {
+      "stop_name": "Alameda / 6th Layover",
+      "total_boardings": 3218
+    },
+    {
+      "stop_name": "Sunset / Portia",
+      "total_boardings": 3212
+    },
+    {
+      "stop_name": "Sunset / Alpine",
+      "total_boardings": 3210
+    },
+    {
+      "stop_name": "Wilshire / Bonsall",
+      "total_boardings": 3206
+    },
+    {
+      "stop_name": "Venice / Oak",
+      "total_boardings": 3204
+    },
+    {
+      "stop_name": "Central / 6th",
+      "total_boardings": 3201
+    },
+    {
+      "stop_name": "Sunset / Echo Park",
+      "total_boardings": 3197
+    },
+    {
+      "stop_name": "Wilshire / Robertson",
+      "total_boardings": 3195
+    },
+    {
+      "stop_name": "Wilshire / Rexford",
+      "total_boardings": 3194
+    },
+    {
+      "stop_name": "Le Conte / Westwood",
+      "total_boardings": 3179
+    },
+    {
+      "stop_name": "Division 13 Layover",
+      "total_boardings": 3178
+    },
+    {
+      "stop_name": "Cesar E Chavez / Broadway",
+      "total_boardings": 3171
+    },
+    {
+      "stop_name": "Cesar E Chavez / Grand",
+      "total_boardings": 3171
+    },
+    {
+      "stop_name": "Spring / Temple",
+      "total_boardings": 3170
+    },
+    {
+      "stop_name": "Wilshire / Vermont",
+      "total_boardings": 3168
+    },
+    {
+      "stop_name": "5th / Grand",
+      "total_boardings": 3153
+    },
+    {
+      "stop_name": "Patsaouras Transit Plaza",
+      "total_boardings": 3151
+    },
+    {
+      "stop_name": "Broadway / 12th",
+      "total_boardings": 3146
+    },
+    {
+      "stop_name": "6th / Witmer",
+      "total_boardings": 3144
+    },
+    {
+      "stop_name": "Spring / 3rd",
+      "total_boardings": 3139
+    },
+    {
+      "stop_name": "Broadway / 2nd",
+      "total_boardings": 3137
+    },
+    {
+      "stop_name": "Wilshire / Brockton",
+      "total_boardings": 3136
+    },
+    {
+      "stop_name": "Wilshire / Normandie",
+      "total_boardings": 3136
+    },
+    {
+      "stop_name": "Wilshire / 6th",
+      "total_boardings": 3134
+    },
+    {
+      "stop_name": "Wilshire / Alvarado",
+      "total_boardings": 3129
+    },
+    {
+      "stop_name": "Sunset / Beaudry",
+      "total_boardings": 3128
+    },
+    {
+      "stop_name": "Sunset / Carolwood",
+      "total_boardings": 3126
+    },
+    {
+      "stop_name": "Spring / 1st",
+      "total_boardings": 3125
+    },
+    {
+      "stop_name": "Wilshire / Crescent Heights",
+      "total_boardings": 3124
+    },
+    {
+      "stop_name": "Sunset / Beverly",
+      "total_boardings": 3111
+    },
+    {
+      "stop_name": "5th / San Pedro",
+      "total_boardings": 3108
+    },
+    {
+      "stop_name": "Venice / Hoover",
+      "total_boardings": 3106
+    },
+    {
+      "stop_name": "5th / Main",
+      "total_boardings": 3103
+    },
+    {
+      "stop_name": "Broadway / 7th",
+      "total_boardings": 3102
+    },
+    {
+      "stop_name": "Sunset / Figueroa",
+      "total_boardings": 3096
+    },
+    {
+      "stop_name": "Wilshire / Western",
+      "total_boardings": 3092
+    },
+    {
+      "stop_name": "Le Conte / Tiverton",
+      "total_boardings": 3081
+    },
+    {
+      "stop_name": "Venice / Hope",
+      "total_boardings": 3081
+    },
+    {
+      "stop_name": "Sunset / Park",
+      "total_boardings": 3080
+    },
+    {
+      "stop_name": "Wilshire / McClellan",
+      "total_boardings": 3077
+    },
+    {
+      "stop_name": "Wilshire / 14th",
+      "total_boardings": 3070
+    },
+    {
+      "stop_name": "Wilshire / Berkeley",
+      "total_boardings": 3069
+    },
+    {
+      "stop_name": "Wilshire / Willaman",
+      "total_boardings": 3066
+    },
+    {
+      "stop_name": "5th / Santa Monica",
+      "total_boardings": 3058
+    },
+    {
+      "stop_name": "Sunset / Bedford",
+      "total_boardings": 3056
+    },
+    {
+      "stop_name": "Wilshire / 20th",
+      "total_boardings": 3056
+    },
+    {
+      "stop_name": "Wilshire / Bundy",
+      "total_boardings": 3047
+    },
+    {
+      "stop_name": "Wilshire / Barrington",
+      "total_boardings": 3045
+    },
+    {
+      "stop_name": "Venice / Hill",
+      "total_boardings": 3044
+    },
+    {
+      "stop_name": "Wilshire / 11th",
+      "total_boardings": 3044
+    },
+    {
+      "stop_name": "Sunset / Beverly Glen",
+      "total_boardings": 3041
+    },
+    {
+      "stop_name": "Hilgard / Westholme",
+      "total_boardings": 3035
+    },
+    {
+      "stop_name": "Hilgard / Le Conte",
+      "total_boardings": 3032
+    },
+    {
+      "stop_name": "Broadway / 1st",
+      "total_boardings": 3031
+    },
+    {
+      "stop_name": "Sunset / Whittier",
+      "total_boardings": 3014
+    },
+    {
+      "stop_name": "Venice / Grand",
+      "total_boardings": 3014
+    }
+  ],
+  "count": 90
+}

@@ -1,0 +1,27 @@
+{
+  "query": "Q6",
+  "description": "Average ridership (on+off) by line",
+  "results": [
+    {
+      "line_name": "Route 2",
+      "avg_passengers": "53.14"
+    },
+    {
+      "line_name": "Route 33",
+      "avg_passengers": "52.59"
+    },
+    {
+      "line_name": "Route 720",
+      "avg_passengers": "52.54"
+    },
+    {
+      "line_name": "Route 4",
+      "avg_passengers": "52.35"
+    },
+    {
+      "line_name": "Route 20",
+      "avg_passengers": "51.96"
+    }
+  ],
+  "count": 5
+}
